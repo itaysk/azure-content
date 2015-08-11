@@ -100,7 +100,7 @@ The following table summarizes our recommendations for integrating SQL Server BC
 		<td><b>Edition</b></td>
 		<td><b>Deployment</b></td>
 		<td><b>On-premises to on-premises</b></td>
-		<td><b>On-premises to Azure</b></td
+		<td><b>On-premises to Azure</b></td>
     </tr>
     <tr align="left" valign="top">
 		<td rowspan = "3">SQL Server 2014 or 2012</td>
